@@ -1,0 +1,120 @@
+.top_status_bar{
+	height: 40px;
+	min-width: 1500px;
+	background-color: #F7F7F7;
+}
+
+.search_part{
+	height: 200px;
+	min-width: 1500px;
+	margin: 50px 100px 0;
+}
+
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+
+.logo{
+	position: relative;
+	bottom: 10px;
+}
+
+.welcome{
+	margin-left :100px;
+}
+
+.top_status_bar{
+	color: #706E71;
+	font: 15px/40px '微软雅黑';
+}
+
+.user_chart_order{
+	margin-right: 100px;
+}
+
+.user_chart_order a{
+	color: #706E71;
+}
+
+.after_login .user_name{
+	color: #FEC097;
+}
+
+.before_login span,.chart_order span{
+	margin: 0px 15px;
+}
+
+.search_bar{
+	width: 750px;
+	height: 50px;
+	border:2px solid green;
+	position: relative;
+	left:287px;
+}
+
+.search_pic{
+	height:19px;
+	width:21px;
+	background : url(../images/img.png) no-repeat;
+	background-position:0 0;
+	position: absolute;
+	top: 31%;
+	left: 14px;
+}
+
+.search_bar .search_button{
+	color: white;
+	background-color:green;
+	height: 50px;
+	width: 130px;
+	font:22px/50px '微软雅黑';
+	text-align: center;
+	cursor: pointer;
+	border:none;
+	outline: none;
+}
+
+.serach_area{
+	width: 570px;
+	height: 50px;
+	padding: 0;
+	border:0px;
+	font:15px/50px '微软雅黑';
+	outline: none;
+	margin-left: 50px;
+}
+
+.my_chart_and_number{
+	width: 250px;
+	height: 50px;
+	border: 1px solid #DCDCDC;
+}
+
+.chart_num{
+	width: 50px;
+	height: 50px;
+	border: 0px;
+	background-color: orange;
+	color: white;
+	font: 30px/50px '微软雅黑';
+	text-align: center;
+}
+
+.chart_pic{
+	background : url(../images/img.png) no-repeat;
+	height:22px;
+	width:27px;
+	background-position:0 -226px;
+	position: relative;
+	left: 11px;
+	top: 14px;
+}
+
+.mychart{
+	font: 20px/50px '微软雅黑';
+	color: green;
+	margin-left: 37px;
+}
