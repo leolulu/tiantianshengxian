@@ -8,4 +8,11 @@ body{
 
 a{
 	text-decoration: none;
+	color: #353941;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
