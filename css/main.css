@@ -9,7 +9,7 @@
 .search_part{
 	height: 100px;
 	min-width: 1250px;
-	margin: 50px 335px 0;
+	margin: 50px 65px 0;
 }
 
 .fl{
@@ -25,12 +25,12 @@
 }
 
 .welcome{
-	margin-left :100px;
+	margin-left :65px;
 }
 
 
 .user_chart_order{
-	margin-right: 100px;
+	margin-right: 65px;
 }
 
 .user_chart_order a{
@@ -129,7 +129,7 @@
 }
 
 .h1_con{
-	margin:0 335px;
+	margin:0 65px;
 	height: 50px;
 }
 
@@ -162,7 +162,7 @@
 
 .h1_menu{
 	min-width: 1250px;
-	margin: 0 335px;
+	margin: 0 65px;
 	/* border: 1px dotted green;	overflow: hidden; */
 }
 
@@ -230,8 +230,12 @@
 
 .h2_menu{
 	height: 40px;
-	margin: 10px 335px;
+	margin: 10px 65px 0;
 	border-bottom:  2px solid green;
+}
+
+.h2_pics{
+	margin: 0 65px 10px;
 }
 
 .text_left{
@@ -268,3 +272,30 @@
 	color:orange;
 }
 
+.h2_small_pic .pic1{
+	width: 200px;
+	height: 299px;
+	border:1px solid #F5F4F6;
+	text-align: center;
+}
+
+.h2_small_pic .pic1 .pic1_text{
+	color: #817F80;
+	font:14px/14px '微软雅黑';
+	padding: 40px 0 10px;
+}
+
+.h2_small_pic .pic1 .pic1_price{
+	color: #E33927;
+	font:20px/20px '微软雅黑';
+
+}
+
+.footer{
+	font:12px/12px '微软雅黑';
+	text-align: center;
+}
+
+.footer a:hover{
+	color: orange;
+}
